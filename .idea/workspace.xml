@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c39e81c-9d64-4158-a223-33350fb1d906" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/caculator 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caculator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiem tra nam nhuan.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/caculator.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
               <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kiem tra nam nhuan.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -47,6 +55,7 @@
         <option value="$PROJECT_DIR$/baitap1.html" />
         <option value="$PROJECT_DIR$/caculator.html" />
         <option value="$PROJECT_DIR$/caculator 2.html" />
+        <option value="$PROJECT_DIR$/kiem tra nam nhuan.html" />
       </list>
     </option>
   </component>
@@ -117,15 +126,15 @@
       <option name="presentableId" value="Default" />
       <updated>1574848718148</updated>
       <workItem from="1574848719432" duration="2358000" />
-      <workItem from="1574904735461" duration="596000" />
+      <workItem from="1574904735461" duration="1776000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2954000" />
+    <option name="totallyTimeSpent" value="4134000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="402" y="0" width="1400" height="1000" extended-state="0" />
+    <frame x="396" y="299" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
@@ -177,6 +186,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kiem tra nam nhuan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
         </state>
       </provider>
     </entry>
